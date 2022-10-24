@@ -4,20 +4,22 @@
 
 .flex-box {
     display: flex;
-    flex-wrap: nowrap;  
-
+    flex-wrap: nowrap; 
+    justify-content: center;
+    gap: 10rem; 
 }
-.flex-container > div {
-    background-color: #f1f1f1;
-    width: 100px;
-    margin: 10px;
-    text-align: center;
-    line-height: 75px;
-    font-size: 30px;
+    .container {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        padding: 10px;
+    }
+      .container{
+        border: 1px solid rgba(0, 0, 0, 0.8);
+        padding: 20px;
+        font-size: 30px;
+        text-align: center;
 
-}
 
- 
 
 p > b {
     color: hsl(271, 76%, 53%)
