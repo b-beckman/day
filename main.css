@@ -12,13 +12,15 @@
         display: grid;
         grid-template-columns: auto auto auto;
         padding: 10px;
+        
     }
-      .container{
-        border: 1px solid rgba(0, 0, 0, 0.8);
-        padding: 20px;
-        font-size: 30px;
-        text-align: center;
+       
 
+    @media screen and (maxwidth 700) {
+     .container {
+     grid-template-columns: auto auto;
+     }     
+    }
 
 
 p > b {
@@ -30,7 +32,16 @@ span {
 }
 
 #contact-form {
-margin: ;
+margin: 
 background-color: aliceblue;
 width: 50%;
+}
+
+h1{
+    transition: 1s all cubic-bezier(.17,.67,.83,.67);
+}
+
+h1:hover {
+    color: purple;
+
 }
