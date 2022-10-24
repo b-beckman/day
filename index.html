@@ -87,22 +87,21 @@
     <h2>Contact Form</h2>
 
     <form action="">
-      <label for="fadnlname">First And last name:</label><br />
-      <input
-        type="text"
-        maxlength="50"
-        id="fname"
-        name="fname"
-        value=""
-      /><br />
+      <label for="name">First And last name:</label><br />
+      <input type="text" maxlength="50" id="name" name="name" required /><br />
       <label for="email">E-Mail:</label><br />
-      <input type="email" id="email" name="email" value="" /><br />
-      <label for="freeform">Tell us how...:</label>
+      <input type="email" id="email" name="email" required /><br />
+      <label for="freeform">Tell us...:</label>
       <br />
 
-      <textarea id="freeform" name="freeform" rows="4" cols="50">
-Enter text here...
-      </textarea>
+      <textarea
+        placeholder="Enter your text here..."
+        id="freeform"
+        name="freeform"
+        rows="4"
+        cols="50"
+        required
+      ></textarea>
       <input type="submit" value="Submit" />
     </form>
   </body>
