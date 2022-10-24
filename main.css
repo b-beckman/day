@@ -1,0 +1,21 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+html {
+    100%
+}
+
+p > b {
+    color: blueviolet
+}
+
+span {
+    color: rgb(138, 43, 226)
+}
+
+#contact-form {
+margin: ;
+background-color: grey;
+width: 50%;
+}
