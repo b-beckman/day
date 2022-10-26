@@ -17,6 +17,12 @@
        #GradesBox {
            display: flex;
            flex-direction: column;
+           width: 250px;
+           height: 250px;
+           gap: 10px;
+           margin: 0 auto;
+           margin
+
        }
 
     @media screen and (maxwidth 700) {
