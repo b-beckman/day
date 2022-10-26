@@ -1,30 +1,12 @@
-console.log("ça fonctionne!");
+console.log("Bonjour navigateur!");
 
-let ta = [4, 4, 5];
-let total = 0;
+let toto = document.getElementById("les-differents-types-de-grimpe");
 
-function average(tableau) {
-  for (const note of tableau) {
-    total = total + note;
-    return total / tableau.length;
+//toto.innerText = "salut les gars";
+
+toto.addEventListener("click", function () {
+  let articles = document.getElementsByTagName("article");
+  for (const article of articles) {
+    article.style.backgroundColor = "blue";
   }
-}
-
-console.log(average(ta));
-average(ta);
-
-let avg_leo = average(ta);
-
-function pass(avg) {
-  if (avg > 6) {
-    console.log("Tricheur");
-    return;
-  }
-  if (avg < 4) {
-    console.log("raté");
-  } else {
-    console.log("réussi");
-  }
-}
-
-pass(ta);
+});
