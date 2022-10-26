@@ -12,3 +12,19 @@ function average(tableau) {
 
 console.log(average(ta));
 average(ta);
+
+let avg_leo = average(ta);
+
+function pass(avg) {
+  if (avg > 6) {
+    console.log("Tricheur");
+    return;
+  }
+  if (avg < 4) {
+    console.log("raté");
+  } else {
+    console.log("réussi");
+  }
+}
+
+pass(ta);
