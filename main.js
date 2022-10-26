@@ -11,9 +11,3 @@ toto.addEventListener("click", function () {
       "#" + Math.floor(Math.random() * 16777215).toString(16);
   }
 });
-toto.addEventListener("click", function () {
-  const divElem = document.getElementById("les-differents-types-de-grimpe");
-  function randomcolor() {
-    return Math.floor(Math.random() * 255);
-  }
-});
