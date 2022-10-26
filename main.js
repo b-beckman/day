@@ -6,9 +6,8 @@ let total = 0;
 function average(tableau) {
   for (const note of tableau) {
     total = total + note;
+    return total / tableau.length;
   }
-  let moyenne = total / tableau.length;
-  return total / tableau.length;
 }
 
 console.log(average(ta));
