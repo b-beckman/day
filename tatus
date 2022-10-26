@@ -1,0 +1,137 @@
+[33mcommit 0a249adfc9c7a701cadc650aa3731eb6ba33dd1c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: b-beckman <leobuess.pro@gmail.com>
+Date:   Wed Oct 26 13:25:07 2022 +0200
+
+    added input for grades
+
+[33mcommit 4dd1d22fbdebaff948c0bf8489a4c838b750387b[m
+Author: b-beckman <leobuess.pro@gmail.com>
+Date:   Wed Oct 26 13:00:35 2022 +0200
+
+    up to date
+
+[33mcommit 639880358d27648d7b2dcfcf1a98b82da577b9a8[m
+Author: b-beckman <leobuess.pro@gmail.com>
+Date:   Wed Oct 26 11:29:21 2022 +0200
+
+    fix last push
+
+[33mcommit 792586398d6fa3720a65d19c09d00e6a8931d7fd[m
+Author: b-beckman <leobuess.pro@gmail.com>
+Date:   Wed Oct 26 11:28:24 2022 +0200
+
+    Added changes to main.js
+
+[33mcommit 6616401486eeed25eea8585624dbdb99bcc0068b[m
+Author: b-beckman <leobuess.pro@gmail.com>
+Date:   Wed Oct 26 10:53:56 2022 +0200
+
+    Cahnged files and introduction JS in HTML
+
+[33mcommit 54504b27c5d7e8e36680744e5d8c4f8fd03008da[m
+Author: b-beckman <leobuess.pro@gmail.com>
+Date:   Wed Oct 26 09:59:26 2022 +0200
+
+    Added hit or miss
+
+[33mcommit e422ac21f07071044c3ed123da085cf1a8b33973[m
+Author: b-beckman <leobuess.pro@gmail.com>
+Date:   Wed Oct 26 09:50:03 2022 +0200
+
+    fix main.js
+
+[33mcommit e7f3cd0fdb6235b01c600d5bdcabae7fe1cd95f6[m
+Author: b-beckman <leobuess.pro@gmail.com>
+Date:   Wed Oct 26 09:48:29 2022 +0200
+
+    Added average function
+
+[33mcommit e5198c0711329bdd1a80ec68e0f244828e489d3a[m
+Author: b-beckman <leobuess.pro@gmail.com>
+Date:   Wed Oct 26 09:09:18 2022 +0200
+
+    Created main.js
+
+[33mcommit 9cb42faaacde199afc822d9e16eb03c9bfaf405a[m
+Author: b-beckman <leobuess.pro@gmail.com>
+Date:   Wed Oct 26 08:26:52 2022 +0200
+
+    Fix grammar
+
+[33mcommit 9faa47672fbdd6d991d76254c5780e3a916c0fc7[m
+Author: b-beckman <leobuess.pro@gmail.com>
+Date:   Mon Oct 24 16:30:42 2022 +0200
+
+    Test
+
+[33mcommit 81f605102100b0d2db010d9e8f2a98f2766254a3[m
+Author: b-beckman <leo.buess@gmail.com>
+Date:   Mon Oct 24 16:11:29 2022 +0200
+
+    Added grid + bezier
+
+[33mcommit 9fb06fe495add10f71c90a5484e3a8d84d4af0b2[m
+Author: b-beckman <leo.buess@gmail.com>
+Date:   Mon Oct 24 15:11:31 2022 +0200
+
+    Added grid
+
+[33mcommit 4270023104b18cae0272c2523cc15b098a6e81dd[m
+Author: b-beckman <leo.buess@gmail.com>
+Date:   Mon Oct 24 14:32:03 2022 +0200
+
+    Added flex box climbing shoes
+
+[33mcommit 6e20b07771176734407d981f05a7b6afff1c4811[m
+Author: b-beckman <leo.buess@gmail.com>
+Date:   Mon Oct 24 13:59:15 2022 +0200
+
+    Added CSS
+
+[33mcommit 0a75857f35581abed3d7cb65d2de75ddaa7d84d0[m
+Author: b-beckman <leo.buess@gmail.com>
+Date:   Mon Oct 24 11:48:23 2022 +0200
+
+    fix HTML
+
+[33mcommit 0f06e969d40418407dedb2bdb7d3bc8beb949501[m
+Author: b-beckman <leo.buess@gmail.com>
+Date:   Mon Oct 24 11:21:38 2022 +0200
+
+    Added contact form
+
+[33mcommit 4307d060370669b488366e6543854e1b0dc05275[m
+Author: b-beckman <leo.buess@gmail.com>
+Date:   Mon Oct 24 10:54:44 2022 +0200
+
+    added clickable link
+
+[33mcommit 675c738514c182987e830c4c1877f300ffe941d4[m
+Author: b-beckman <leo.buess@gmail.com>
+Date:   Mon Oct 24 10:31:10 2022 +0200
+
+    Added text for gears
+
+[33mcommit 5b1b43bc79d414340e63ce8a5142bda5e1fbf2ed[m
+Author: b-beckman <leo.buess@gmail.com>
+Date:   Mon Oct 24 10:07:14 2022 +0200
+
+    Added introduction
+
+[33mcommit ee55fa9a2be3c654dcdd93d99698154c8df5a988[m
+Author: b-beckman <leo.buess@gmail.com>
+Date:   Mon Oct 24 10:06:03 2022 +0200
+
+    Added introduction
+
+[33mcommit c7f54a9734d1bf2846db1631707ae0ab82635c63[m
+Author: b-beckman <leo.buess@gmail.com>
+Date:   Mon Oct 24 09:26:03 2022 +0200
+
+    Add base HTML structure
+
+[33mcommit 98947698059cb3189ffe17396cca1d91ea87217d[m
+Author: l.beckman <leo.buess@gmail.com>
+Date:   Mon Oct 24 08:34:55 2022 +0200
+
+    first commit readme
